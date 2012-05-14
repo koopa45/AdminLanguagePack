@@ -3,21 +3,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.broadleafcommerce</groupId>
-  <artifactId>AdminLanguagePack</artifactId>
+  <artifactId>AdminLanguagePack_es</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging>
-<description>Admin Language Pack</description>
-  <name>AdminLanguagePack</name>
+  <packaging>jar</packaging>
+<description>Admin Language pack for Spanish es</description>
+  <name>language_sv</name>
   <url>http://broadleafcommerce.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  <modules>
-    <module>french</module>
-    <module>spanish</module>
-    <module>swedish</module>
-  </modules>
+
   <dependencies>
 
   </dependencies>
