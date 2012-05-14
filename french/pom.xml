@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 <description>Admin Language pack for french</description>
-  <name>language_sv</name>
+  <name>AdminLanguagePack_fr</name>
   <url>http://broadleafcommerce.org</url>
 
   <properties>
