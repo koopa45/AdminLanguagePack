@@ -3,9 +3,24 @@ Language pack for the Broadleaf Commerce Admin
 Instructions to add this language pack to the Admin Demo:
 
 1) download the Admin Demo from https://github.com/BroadleafCommerce/BroadleafCommerceDemoSite
-2) modify the pom.xml to add the following dependency.
+2) modify the pom.xml to add the Swedish language dependency.
      <dependency>
        <groupId>org.broadleafcommerce</groupId>
        <artifactId>AdminLanguagePack_sv</artifactId>
        <version>1.0-SNAPSHOT</version>
      </dependency> 
+2) modify the pom.xml to add the Spanish language dependency.
+     <dependency>
+       <groupId>org.broadleafcommerce</groupId>
+       <artifactId>AdminLanguagePack_es</artifactId>
+       <version>1.0-SNAPSHOT</version>
+     </dependency> 
+2) modify the pom.xml to add the French language dependency.
+     <dependency>
+       <groupId>org.broadleafcommerce</groupId>
+       <artifactId>AdminLanguagePack_fr</artifactId>
+       <version>1.0-SNAPSHOT</version>
+     </dependency> 
+     
+ 3) modify the url to add the locale for the changes to occur.
+   http://localhost:8080/broadleafdemo/admin.html?locale=sv_SE
