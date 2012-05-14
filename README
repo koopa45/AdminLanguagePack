@@ -1,0 +1,11 @@
+Language pack for the Broadleaf Commerce Admin
+
+Instructions to add this languae pack to the Admin Demo:
+
+1) download the Admin Demo from https://github.com/BroadleafCommerce/BroadleafCommerceDemoSite
+2) modify the pom.xml to add the following dependency.
+     <dependency>
+       <groupId>org.broadleafcommerce</groupId>
+       <artifactId>AdminLanguagePack_sv</artifactId>
+       <version>1.0-SNAPSHOT</version>
+     </dependency> 
