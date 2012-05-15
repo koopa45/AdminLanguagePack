@@ -7,8 +7,8 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>broadleaf-admin-language-pack-es</artifactId>
     <packaging>jar</packaging>
-    <description>Admin Language pack for Spanish es</description>
-    <name>Admin Language pack for Spanish es</name>
+    <description>Admin Language pack for Spanish</description>
+    <name>Admin Language pack for Spanish</name>
     <url>http://broadleafcommerce.org</url>
     <licenses>
         <license>
