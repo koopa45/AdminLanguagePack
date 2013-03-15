@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>broadleaf-admin-language-pack</artifactId>
+        <groupId>org.broadleafcommerce</groupId>
+        <version>1.7.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>broadleaf-admin-language-pack-lt</artifactId>
+    <packaging>jar</packaging>
+    <description>Admin Language pack for Lithuanian</description>
+    <name>Admin Language pack for Lithuanian</name>
+    <url>http://broadleafcommerce.org</url>
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <id>koopa45</id>
+            <name>Remigijus Kupinas</name>
+            <email>koopa45@gmail.com</email>
+            <organization></organization>
+            <organizationUrl></organizationUrl>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>+2</timezone>
+        </developer>
+        <developer>
+            <id>avalionis</id>
+            <name>Aurimas Valionis</name>
+            <email>aurimas.valionis@gmail.com</email>
+            <organization></organization>
+            <organizationUrl></organizationUrl>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>+2</timezone>
+        </developer>
+    </developers>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <dependencies>
+    </dependencies>
+</project>

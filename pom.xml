@@ -94,6 +94,7 @@
         <module>french</module>
         <module>spanish</module>
         <module>swedish</module>
+        <module>lithuanian</module>
     </modules>
     <dependencies>
     </dependencies>
